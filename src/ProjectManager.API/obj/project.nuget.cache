@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yls1WpyffTU=",
+  "success": true,
+  "projectFilePath": "D:\\TaskForge\\TaskForge\\src\\ProjectManager.API\\ProjectManager.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alok\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\alok\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
